@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
                             </div>
                             <header class="card-header">
                                 <p class="card-header-title -2 are-medium">
-                                    ${shorts[i].precio}
+                                    ${Math.floor(Math.random() * 1000 + 3000)}
                                 </p>
                             </header>  
                         </div>
