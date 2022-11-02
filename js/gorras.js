@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
 
-    const url = 'http://localhost:3000/api/gorras'
+    const url = 'https://api-sportapp-production.up.railway.app/'
 
     axios.get(url)
         .then(respuesta => {
