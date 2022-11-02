@@ -7,45 +7,4 @@ body {
     height: 100vh;
 }
 
-@media (min-width: 576px) {
-    .tile {
-        margin-left: 10px;
-        margin-right: 10px;
-        margin-top: 10px;
-
-    }
-
-    .image {
-        max-width: 450px;
-        max-height: 450px;
-        display: block;
-        margin: auto;
-    }
-
-    .column {
-        margin-left: 10px;
-        margin-right: 10px;
-    }
-
-    .box1 {
-        width: 200px;
-        height: 200px;
-        margin-top: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
-    }
-
-    .box2 {
-        width: 200px;
-        height: 290px;
-        margin-top: -290px;
-        margin-left: 650px;
-    }
-
-    .box3 {
-        width: 200px;
-        height: 290px;
-        margin-top: -290px;
-        margin-left: 850px;
-    }
-}
+@media (min-width: 576px) {}
