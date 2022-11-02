@@ -36,7 +36,6 @@ body {
         max-width: 450px;
         max-height: 450px;
         display: block;
-        margin: auto;
     }
 
     .column {
@@ -45,11 +44,11 @@ body {
     }
 
     .box1 {
-        width: 600px;
-        height: 920px;
-        margin-top: 10px;
-        margin-left: 10px;
-        margin-right: 10px;
+        width: 800px;
+        height: 200px;
+        margin-top: 80px;
+        margin-left: 20px;
+        margin-right: 70px;
     }
 
     .box2 {
