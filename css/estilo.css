@@ -45,10 +45,11 @@ body {
     }
 
     .box1 {
-        width: 200px;
-        height: 290px;
-        margin-top: -290px;
-        margin-left: 450px;
+        width: 800px;
+        height: 200px;
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 
     .box2 {
