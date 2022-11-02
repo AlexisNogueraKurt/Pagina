@@ -69,7 +69,4 @@ body {
 
 }
 
-
-.elementos {
-    overflow-y: scroll;
-}
+@media (max-width: 767.98px) {}
