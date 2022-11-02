@@ -7,4 +7,31 @@ body {
     height: 100vh;
 }
 
-@media (min-width: 576px) {}
+@media (min-width: 576px) {
+    .tile {
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 10px;
+
+    }
+
+    .image {
+        max-width: 450px;
+        max-height: 450px;
+        display: block;
+        margin: 100%;
+    }
+
+    .column {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .box1 {
+        width: 800px;
+        height: 200px;
+        margin-top: 80px;
+        margin-left: 20px;
+        margin-right: 70px;
+    }
+}
