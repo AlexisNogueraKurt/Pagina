@@ -32,7 +32,7 @@ body {
 
 }
 
-@media (min-width: 576px) {
+@media (max-width: 767.98px) {
     .tile {
         margin-left: 10px;
         margin-right: 10px;
