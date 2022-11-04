@@ -20,8 +20,8 @@ audio {
 body {
     
     background: url(../imag/Fondos/futbol.jpg);
-    background-size: 25px 50px;
-    background-size: 50% 50%;
+    background-size: 50px 100px;
+    background-size: 100% 100%;
 }
 
 @media only screen and (min-width: 1280px) {
