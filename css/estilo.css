@@ -69,9 +69,6 @@ body {
 and (min-device-width : 320px) 
 and (max-device-width : 480px) {  
 
-    .navbar{
-        margin: 50%;
-    }
     .tile {
         margin-left: 1rem;
         margin-right: 1rem;
