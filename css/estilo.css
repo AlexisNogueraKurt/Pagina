@@ -83,15 +83,16 @@ and (max-device-width : 480px) {
     }
 
     .column {
-        margin-left: 10px;
-        margin-right: -15px;
+        margin-left: 10rem;
+        margin-right: 10rem;
     }
 
     .box1 {
         width: 200px;
         height: 290px;
-        margin-top: -290px;
-        margin-left: 450px;
+        margin-top: 10rem;
+        margin-left: 10rem;
+        margin-right: 10rem;
     }
 
     .box2 {
