@@ -20,7 +20,7 @@ audio {
 body {
     margin: 0;
     padding: 0;
-    background: url(../imag/Fondos/futbol.jpg) center top;
+    background: url(../imag/Fondos/futbol.jpg);
     background-size: cover;
 }
 
