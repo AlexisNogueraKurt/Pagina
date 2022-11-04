@@ -80,11 +80,6 @@ and (max-device-width : 480px) {
         margin: auto;
     }
 
-    .column {
-        margin-left: 1rem;
-        margin-right: 1rem;
-    }
-
     .box1 {
         width: 200px;
         height: 200px;
