@@ -18,10 +18,10 @@ audio {
 }
 
 body {
-    margin: 0;
-    padding: 0;
+    
     background: url(../imag/Fondos/futbol.jpg);
-    background-size: cover;
+    background-size: 25px 50px;
+    background-size: 50% 50%;
 }
 
 @media only screen and (min-width: 1280px) {
