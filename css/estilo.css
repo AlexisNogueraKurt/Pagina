@@ -26,7 +26,7 @@ body {
 
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 200px) {
 
     aside {
         display: none;
