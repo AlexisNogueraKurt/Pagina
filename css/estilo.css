@@ -70,20 +70,11 @@ body {
         margin-left: 850px;
     }
 
-    @media screen and (min-width: 468px) {
+    @media screen and (min-width: 255px) {
         .contenedor {
-            width: 100px;
+            width: 255px;
 
         }
-
-        aside {
-            display: none;
-        }
-    }
-
-    body {
-        width: 255rem;
-        right: 1000rem;
     }
 
 
