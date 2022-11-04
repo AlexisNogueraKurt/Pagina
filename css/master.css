@@ -6,7 +6,7 @@ body {
 }
 
  .box1 {
-
+   max-height: 50%;
    position: relative;
    left: 130px;
 
