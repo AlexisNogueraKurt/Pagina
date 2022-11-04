@@ -1,24 +1,15 @@
 body {
-    margin: 0;
-    padding: 0;
-    background: url(../imag/Logo/LogoSportApp.PNG) no-repeat center top;
-    background-size: cover;
+  margin: 0;
+  padding: 0;
+  background: url(../imag/Logo/LogoSportApp.PNG) no-repeat center top;
+  background-size: cover;
 }
 
-@media screen and (min-width: 1280px) {  
- .box1 {
+@media screen and (min-width: 1280px) {
+  .box1 {
     max-height: 50%;
     margin-left: 10rem;
     margin-right: 10rem;
- }
-   
-} 
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {  
-    .box1 {
-      max-height: 50%;
-      margin-left: 1rem;
-      margin-right: 1rem;
-    }      
-} 
+  }
+
+}
