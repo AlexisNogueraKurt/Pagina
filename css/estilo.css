@@ -88,7 +88,7 @@ and (max-device-width : 480px) {
     }
 
     .box1 {
-        margin: 100%;
+        margin: 50%;
         width: 300px;
         height: 300px;
         margin-top: 10rem;
