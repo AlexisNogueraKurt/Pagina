@@ -21,14 +21,20 @@ body {
 
     margin: 0;
     padding: 0;
-    background: url(../imag/Fondos/futbol.jpg) center;
+    background: url(../imag/Fondos/futbol.jpg) center top;
     background-size: cover;
 
 }
 
-.contenedor {
-    background-position: 0%;
+@media screen and (max-width: 468px) {
+    .contenedor {
+        width: 100px;
 
+    }
+
+    aside {
+        display: none;
+    }
 }
 
 @media only screen and (min-width: 1280px) {
@@ -50,9 +56,6 @@ body {
     .column {
         margin-left: 10px;
         margin-right: -15px;
-        margin-top: 0%;
-        margin-block-end: 0%;
-
     }
 
     .box1 {
