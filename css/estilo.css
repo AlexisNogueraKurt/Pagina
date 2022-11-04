@@ -85,24 +85,24 @@ and (max-device-width : 480px) {
     }
 
     .box1 {
-        width: 800px;
-        height: 800px;
+        width: 200px;
+        height: 200px;
         margin-top: 1rem;
         margin-left: 1rem;
         margin-right: 1rem;
     }
 
     .box2 {
-        width: 800px;
-        height: 800px;
+        width: 200px;
+        height: 200px;
         margin-top: 1rem;
         margin-left: 1rem;
         margin-right: 1rem;
     }
 
     .box3 {
-        width: 800px;
-        height: 800px;
+        width: 200px;
+        height: 200px;
         margin-top: 1rem;
         margin-left: 1rem;
         margin-right: 1rem;
