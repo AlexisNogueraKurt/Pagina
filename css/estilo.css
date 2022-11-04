@@ -74,11 +74,6 @@ and (max-device-width : 480px) {
         padding: auto;
     }
 
-    .tile {
-        margin-left: 1rem;
-        margin-right: 1rem;
-        margin-top: 1rem;
-    }
 
     .image {
         max-width: 800px;
