@@ -71,12 +71,10 @@ and (min-device-width : 320px)
 and (max-device-width : 480px) {  
 
     .navbar{
-        width: 100%;
+        max-width: 800px;
     }
 
     .tile {
-        max-width: 200px;
-        max-height: 200px;
         margin-left: 1rem;
         margin-right: 1rem;
         margin-top: 1rem;
