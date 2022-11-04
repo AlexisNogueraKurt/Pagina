@@ -19,6 +19,8 @@ and (max-device-width : 480px) {
     .box1 {
       max-height: 50%;
       position: relative;
-      left: 5px;
+      left: 1px;
+      margin-left: 1rem;
+      margin-right: 1rem;
     }      
 } 
