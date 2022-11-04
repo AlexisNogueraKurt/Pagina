@@ -26,6 +26,9 @@ body {
 
 }
 
+.contenedor {
+    font-display: 200;
+}
 
 @media only screen and (min-width: 1280px) {
 
