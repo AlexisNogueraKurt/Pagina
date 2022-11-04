@@ -3,13 +3,11 @@ body {
     padding: 0;
     background: url(../imag/Logo/LogoSportApp.PNG) no-repeat center top;
     background-size: cover;
-    font-family: sans-serif;
-    height: 100vh;
 }
 
-/* .box1 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+ .box1 {
 
-} */
+   position: relative;
+   left: 230px;
+
+} 
