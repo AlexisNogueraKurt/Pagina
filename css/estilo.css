@@ -81,8 +81,8 @@ and (max-device-width : 480px) {
     }
 
     .image {
-        max-width: 200px;
-        max-height: 200px;
+        max-width: 800px;
+        max-height: 800px;
         display: block;
         margin: auto;
     }
