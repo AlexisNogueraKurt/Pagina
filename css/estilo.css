@@ -73,6 +73,7 @@ body {
     @media screen and (min-width: 255px) {
         .contenedor {
             width: 255px;
+            background-position: center;
 
         }
     }
