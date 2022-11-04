@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
             camisetas = respuesta.data.camisetas
             console.log(respuesta.data.camisetas)
             let divCamisetas = document.getElementById('camisetas')
-            let tarjetasCamisetas = '<div class="columns is-mobile">'
+            let tarjetasCamisetas = '<div class="columns is-multiline">'
 
             for (let i = 0; i < camisetas.length; i++) {
                 tarjetasCamisetas += `
