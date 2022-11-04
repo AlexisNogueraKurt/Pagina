@@ -23,6 +23,18 @@ body {
     padding: 0;
     background: url(../imag/Fondos/futbol.jpg) center top;
     background-size: cover;
+
+}
+
+@media screen and (max-width: 200px) {
+    .contenedor {
+        width: 100px;
+
+    }
+
+    aside {
+        display: none;
+    }
 }
 
 @media only screen and (min-width: 1280px) {
@@ -67,15 +79,6 @@ body {
         margin-left: 850px;
     }
 
-    @media screen and (max-width: center) {
-        .contenedor {
-            width: 100px;
 
-        }
-
-        aside {
-            display: none;
-        }
-    }
 
 }
