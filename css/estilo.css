@@ -71,7 +71,9 @@ body {
 and (min-device-width : 320px) 
 and (max-device-width : 480px) {  
 
-    
+    .navbar1{
+        margin-right: 50px;
+    }
     .image {
         max-width: 800px;
         max-height: 800px;
