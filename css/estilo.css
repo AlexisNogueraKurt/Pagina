@@ -82,8 +82,8 @@ body {
     }
 
     body {
-        border-width: 200px;
-        border-right: 200px;
+        width: 200px;
+        right: 200px;
     }
 
 
