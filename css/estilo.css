@@ -26,16 +26,7 @@ body {
 
 }
 
-@media screen and (max-width: 468px) {
-    .contenedor {
-        width: 100px;
 
-    }
-
-    aside {
-        display: none;
-    }
-}
 
 @media only screen and (min-width: 1280px) {
 
@@ -77,6 +68,17 @@ body {
         height: 290px;
         margin-top: -290px;
         margin-left: 850px;
+    }
+
+    @media screen and (max-width: 468px) {
+        .contenedor {
+            width: 100px;
+
+        }
+
+        aside {
+            display: none;
+        }
     }
 
 
