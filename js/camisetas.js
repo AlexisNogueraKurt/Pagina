@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             for (let i = 0; i < camisetas.length; i++) {
                 tarjetasCamisetas += `
-                    <div class="column is-one-fifth-desktop-center">
+                    <div class="column is-one-fifth-desktop">
                         <div class="card">
                             <header class="card-header">
                                 <p class="card-header-title">
