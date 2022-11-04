@@ -81,6 +81,11 @@ body {
         }
     }
 
+    body {
+        border-width: 200px;
+        border-right: 200px;
+    }
+
 
 
 }
