@@ -34,14 +34,6 @@ body {
         margin-top: 10px;
 
     }
-
-    .image {
-        max-width: 450px;
-        max-height: 450px;
-        display: block;
-        margin: auto;
-    }
-
     .column {
         margin-left: 10px;
         margin-right: -15px;
