@@ -67,7 +67,7 @@ body {
         margin-left: 850px;
     }
 
-    @media screen and (max-width: 400px) {
+    @media screen and (max-width: 200px) {
         .contenedor {
             width: 100px;
 
