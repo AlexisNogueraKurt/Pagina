@@ -18,32 +18,21 @@ audio {
 }
 
 body {
-    
+
     margin: 0;
     padding: 0;
     background: url(../imag/Fondos/futbol.jpg) center top;
     background-size: cover;
 }
-.contenedor {
-    background: #fafafa;
-    width: 80%;
-    margin: 0 auto;
-    padding: 30px 10px;
-    text-align: justify;
-  }
-  
-  .contenedor img {
-    width: 100%;
-  }
-  
-  @media (max-width:600px)  { 
+
+@media (max-width:600px) {
     .contenedor {
-      width: 90%;
+        width: 90%;
     }
-  }
+}
 
 @media only screen and (min-width: 1280px) {
-    
+
     .tile {
         margin-left: 10px;
         margin-right: 10px;
