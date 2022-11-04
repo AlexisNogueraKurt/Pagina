@@ -11,8 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
             for (let i = 0; i < camisetas.length; i++) {
                 tarjetasCamisetas += `
-                    <div class="column is-one-fifth-desktop">
-                        <div class="card-center top">
+                    <div class="column is-one-fifth-desktop-center">
+                        <div class="card">
                             <header class="card-header">
                                 <p class="card-header-title">
                                 <a href="Camisetas/${camisetas[i].nombre.replace(/ /g, '_')}.html">${camisetas[i].nombre}</a>&nbsp;&nbsp;
